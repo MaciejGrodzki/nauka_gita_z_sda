@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-dodanie nowej eksperymentalnej funkcjonalnosci
-
-la ma kota a kot ma ale 
-=======
-mdddd  dda kota.
->>>>>>> parent of ce4ab0b (statni comiit przed usunieciem)
